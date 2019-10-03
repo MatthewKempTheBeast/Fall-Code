@@ -13,3 +13,6 @@ the + button in the top left. Once the the window pops up enter the local ipv4 a
 of the computer you are trying to connect to and click add button underneath. This must be
 done on both computers to see the the chat, although messages can be sent without both 
 connections.
+
+Bugs:
+-on windows the send button is shifted to the top left of the actual send button(still works)
